@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true narrative of the late success which it hath pleased God to give to some part of the fleet of this Common-vvealth upon the Spanish coast against the King of Spain's West-India fleet in its return to Cadiz: being the substance of several letters writ and sent by the Generals of the fleet upon this occasion. October the 4th, 1656. Ordered by the Parliament, that this narrative be forthwith printed and published. Hen: Scobell, Clerk of the Parliament.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63576</idno><idno type="EEBO-CITATION">99835010</idno>
+  <idno type="VID">39663</idno>
+  <idno type="EEBO-PROQUEST">2240920283</idno>
+  
+            <idno type="STC">Wing T2800A</idno>
+            <idno type="STC">ESTC R210625</idno>
+            <idno type="PROQUEST">99835010</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.  Navigations series.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99835010e"/>
+            <note>(EEBO-TCP ; phase 2, no. A63576)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 39663)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1981:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true narrative of the late success which it hath pleased God to give to some part of the fleet of this Common-vvealth upon the Spanish coast against the King of Spain's West-India fleet in its return to Cadiz: being the substance of several letters writ and sent by the Generals of the fleet upon this occasion. October the 4th, 1656. Ordered by the Parliament, that this narrative be forthwith printed and published. Hen: Scobell, Clerk of the Parliament.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p. ill. (woodcut)  </extent>
+               <publicationStmt>
+                  <publisher>printed Henry Hills and John Field, printers to His Highness the Lord Protector,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a title page engraving (woodcut).</note>
+                  <note>The final leaf bears an order to print.</note>
+                  <note>Reproduction of the original in the Worcester College (University of Oxford). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Spain --  Foreign relations --  Great Britain --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:39663:1"/>
+            <p>A TRUE NARRATIVE OF The late SUCCESS which it hath pleased God to give to some part of the Fleet of this COMMON-WEALTH Upon the SPANISH Coast, AGAINST The King of <hi>Spain's West-India Fleet</hi> In its Return to CADIZ: Being the Substance of several LETTERS writ and sent by the Generals of the Fleet upon this occasion.</p>
+            <figure>
+               <figDesc>blazon or coat of arms of the Commonwealth of England</figDesc>
+            </figure>
+            <p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="license">
+                           <opener>
+                              <dateline>
+                                 <date>October the 4<seg rend="sup">th</seg>, 1656.</date>
+                              </dateline>
+                           </opener>
+                           <p>
+                              <hi>ORdered by the Parliament, That this Narrative be forthwith Printed and Published.</hi>
+                           </p>
+                           <closer>
+                              <signed>
+                                 <hi>Hen: Scobell,</hi> Clerk of the Parliament.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>Henry Hills</hi> and <hi>John Field,</hi> Printers to His Highness the Lord Protector, 1656.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:39663:2"/>
+            <pb n="1" facs="tcp:39663:2"/>
+            <head>A true Narrative of the late Success which it hath pleased God to give to some part of the Fleet of this Commonwealth, up<g ref="char:EOLhyphen"/>on the Spanish Coast, against the King of <hi>Spain's West-India Fleet,</hi> in its return to <hi>Cadiz;</hi> being the substance of several Letters writ and sent by the Generals of the Fleet upon this occasion.</head>
+            <p>
+               <seg rend="decorInit">S</seg>Even Ships in the service of the King of <hi>Spain</hi> (being four of the Kings own Fleet, and three Merchants) coming from the <hi>West-Indies,</hi> most of them rich<g ref="char:EOLhyphen"/>ly laden with Gold, Silver, Pearl, and other Commodities: <hi>viz.</hi> The Admiral <hi>Don Marquis Del Porto,</hi> General; Vice-Admiral a Gallion, <hi>Don Francisco De Esquevel,</hi> Commander; the Rear-Admiral a Gallion, <hi>Don Francisco Del Hayo,</hi> Commander; a Ship commanded by Captain <hi>John Rodri<g ref="char:EOLhyphen"/>gues Caldron;</hi> a Ship commanded by Captain <hi>John De la Torre;</hi> another small man of War, and a Vessel of Advice from the Vice-Roy of <hi>Mexico</hi> to <hi>Spain:</hi> They did in Fifty eight days proceed so far as within a few Leagues of <hi>Cadiz,</hi> without making Land, or touching at any place during the Voyage, having in their way betwixt the <hi>Western Islands</hi> and <hi>Masagam</hi> in <hi>Africk,</hi> seized upon a small <hi>Portugal</hi> as Prize; by whom, receiving a false Infor<g ref="char:EOLhyphen"/>mation, That the <hi>Spaniards</hi> had beaten the
+<pb n="2" facs="tcp:39663:3"/>
+               <hi>English</hi> Fleet from off their Coast a Moneth before, they sailed with much confidence to<g ref="char:EOLhyphen"/>wards <hi>Cadiz,</hi> as not expecting opposition.</p>
+            <p>The greatest part of the <hi>English</hi> Fleet were at this time gone to the Bay of <hi>Wyers</hi> in Portugal (where they arrived the Eleventh of <hi>September</hi> last) to recruit their wants, and to be in a way of further Orders; the Ge<g ref="char:EOLhyphen"/>nerals leaving behinde them a Squadron of six or seven Ships (to have an eye upon <hi>Cadiz</hi>) under the command of Captain <hi>Stainer,</hi> Ca<g ref="char:EOLhyphen"/>ptain of the <hi>Speaker</hi> Frigot: which Squa<g ref="char:EOLhyphen"/>dron, on the Eighth of <hi>September</hi> last, plying to Sea, being forced thither by a strong Westerly wind, did at the evening of the day discover the said <hi>Spanish</hi> Fleet five or six Leagues to the Westward of <hi>Cadiz;</hi> and the approach of the night denying opportunity of present action, they endeavored to fall in with them the next day, which according<g ref="char:EOLhyphen"/>ly they did about Nine of the clock in the morning, (they seeming to the <hi>Spaniards</hi> to be Fisher-Boats) but there being a fresh Galt that night, all but Three of the Squadron were to the Leeward, and could not presently come in; and finding it to be the Spanish Fleet come from the <hi>Indies,</hi> the <hi>Speaker,</hi> the <hi>Bridgwater</hi> and the <hi>Plymouth</hi> Fri<g ref="char:EOLhyphen"/>gots (not thinking it adviseable to stay for the rest of the Squadron, they being within Four Leagues of <hi>Cadiz</hi>) ingaged with the Fleet, and a sharp Dispute there was be<g ref="char:EOLhyphen"/>twixt them: The Admiral being a small Ship, and it being conceived that the placing of the Flag upon her, might be in policy to divert them from attending the Ships of
+<pb n="3" facs="tcp:39663:3"/>better value, they slighted her, and suffered her (with the Portugal Prize) to go into <hi>Ca<g ref="char:EOLhyphen"/>diz</hi> Bay, where (it's said) she was run on shore, and sunk, being reported to have in her Six hundred thousand Pieces of Eight: The Vice-Admiral being reported to have in her Six hundred thousand Pieces of Eight; be<g ref="char:EOLhyphen"/>sides, in Iewels and Plate, upon the ac<g ref="char:EOLhyphen"/>compt of the Marquis of <hi>Badex,</hi> to the value of Five hundred thousand Pieces of Eight; having fought Six hours, was taken by our Ships, and after set on fire by the Spa<g ref="char:EOLhyphen"/>niards themselves, and so burnt down and sunk; and in her were destroyed One hundred and ten men, the principal of whom was the Marquis of <hi>Badex,</hi> who, with his Wife and eldest Daughter, were burnt: The Rere-Admiral was taken, and remains in our pos<g ref="char:EOLhyphen"/>session: The Ship under command of Ca<g ref="char:EOLhyphen"/>ptain <hi>John Rodrigues Caldron,</hi> which was said to have in her, Sugar, Tobacco and Plate, to the value of Six hundred thousand Pieces of Eight, was taken, and in the bringing off, was by an accidental Fire burnt and sunk: The Ship under command of <hi>De la Tour,</hi> Twelve thousand <hi>West-India</hi> Hides, and some quantities of Sugar, is taken and in our possession: The small man of War having in her the like Lading with the last mention<g ref="char:EOLhyphen"/>ed, and the Adviso-vessel being of no force or Lading, are said to escape into <hi>Gibralter.</hi> The value of what is taken and possessed, is not justly known, but by the calculation of the Spaniards, there are taken and lost, about Nine Millions of Pieces of Eight, besides the said Ships and their Lading: There are
+<pb n="4" facs="tcp:39663:4"/>many Prisoners taken, Three hundred and fifty being found in the Rere-Admiral, and about Ninety saved out of the Vice-Admi<g ref="char:EOLhyphen"/>ral, among whom there are, the eldest Son, a yonger Son, and Two Daughters of the said Marquis (besides a Childe): as also <hi>Don Diego De Villa Alva,</hi> the Governor of the <hi>Ha<g ref="char:EOLhyphen"/>vanna,</hi> and several others of quality, and Spanish Merchants. And as all this was done without the loss of one Vessel of the English, so it pleased the Wisdom of God to chuse to effect so great a work by a little Force, as also by suffering the Enemy to be foolishly ensnared into a presumptuous Con<g ref="char:EOLhyphen"/>fidence, by an Enemies Information, on which they so relyed, that they neglected the haling of a Vessel which came from <hi>St. Lucar,</hi> and might have informed them of the truth.</p>
+            <p>By this Narrative, We see that the Lord whose Right hand hath been heretofore so Glorious in power for the help of his poor People in these Nations, in the time of their saddest Dangers, when their Enemies at home expected to have satisfied their lusts in their ruine, hath again appeared on their behalf, in this day of their need, by blowing with his Wind, and causing the Sea to co<g ref="char:EOLhyphen"/>ver their Enemies abroad, so that they have sunk as Lead into the mighty Waters; which gives abundant cause to say, <hi>Who is like unto the Lord, for he hath triumphed glori<g ref="char:EOLhyphen"/>ously!</hi> And as the eminency of this mercy in weakning the common enemy of Religion, (the King of <hi>Spain,</hi> with whom this Com<g ref="char:EOLhyphen"/>monwealth is ingaged in a just and necessary
+<pb n="5" facs="tcp:39663:4"/>War) and in encouraging and strengthning the hands of his Servants, in a vigorous prosecution of that Engagement, is much heightned by the freeness of it (being extend<g ref="char:EOLhyphen"/>ed to Vs, a Froward, Vnbelieving and Vn<g ref="char:EOLhyphen"/>thankful People, who had just cause, rather to expect from the Lord a renewing of his Strokes, and to be still kept under his Re<g ref="char:EOLhyphen"/>bukes, then that he should return to Vs in loving-kindeness and tender-mercy, as he hath done in this late Dispensation) So also is this Mercy the more magnified, by the suteableness and seasonableness of it, when his people were laid low in their own thoughts and expectations, and lower in the eyes and hearts of some that were lookers on; so that We have cause in some measure to say with the <hi>Psalmist, Lord; thou hast been fa<g ref="char:EOLhyphen"/>vorable to thy Land, thou hast brought back the ca<g ref="char:EOLhyphen"/>ptivity of Jacob, thou hast taken away thy wrath, thou hast turned thy self from the fierceness of thine anger.</hi>
+            </p>
+            <p>And as We have cause to remember his Goodness, so occasion is hereby also given to his People, to acknowledge his Soveraign<g ref="char:EOLhyphen"/>ty, and the unsearchableness of his Iudge<g ref="char:EOLhyphen"/>ments. <hi>He doth whatsoever he pleaseth both in Heaven, and in Earth, the Sea, and in all deep places;</hi> and for this end, that men may learn to fear before him, <hi>He will render Vengeance to his Enemies, and his Salvation is nigh to them that trust in him:</hi> both which deserve to be had in everlasting remembrance, and to render him <hi>fearful in Praises.</hi>
+            </p>
+            <p>Therefore, His Highness and the Parlia<g ref="char:EOLhyphen"/>ment looking upon themselves and all the
+<pb n="6" facs="tcp:39663:5"/>People of God in these Nations, as obliged to all humble returns of praise and acknow<g ref="char:EOLhyphen"/>ledgement to the Lord, who hath been thus with them in their necessity, have thought fit to appoint <hi>Wednesday,</hi> being the Fifth of <hi>November</hi> next, to be observed and kept as a Day of Publike Thanksgiving for the Mer<g ref="char:EOLhyphen"/>cies vouchsafed as aforesaid, in all places within <hi>England, Scotland</hi> and <hi>Ireland:</hi> And do order that the Ministers of the several Con<g ref="char:EOLhyphen"/>gregations, do on the Lords-day next before the said Fifth day of <hi>November,</hi> give notice hereof in their several Churches and Chap<g ref="char:EOLhyphen"/>pels; And upon the said Fifth day of <hi>Novem<g ref="char:EOLhyphen"/>ber,</hi> read this Narrative and Order before the Sermon, for the better stirring up of the Hearts of the People to praise God in respect thereof.</p>
+         </div>
+         <div type="order_to_print">
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Saturday, October the</hi> 4<seg rend="sup">th</seg> 1656.</date>
+               </dateline>
+            </opener>
+            <p>ORdered by the Parliament, That this Narrative be forthwith printed and published.</p>
+            <closer>
+               <signed>
+                  <hi>Hen: Scobell,</hi> Clerk of the Parliament.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
